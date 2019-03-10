@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    
+    {
+      "tensorName": "Wex",
+      "tensorShape": [3022, 100],
+      "tensorPath": "oss_data/wex.bytes",
+      "metadataPath": "oss_data/metadata.tsv",
+      "bookmarksPath": "oss_data/state.txt"
+    }
+  ],
+  "modelCheckpointPath": "Demo datasets"
+}
